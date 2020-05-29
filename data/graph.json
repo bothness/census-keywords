@@ -1,0 +1,6876 @@
+{
+  "nodes": [
+    {
+      "id": "Accommodation type",
+      "group": 1,
+      "links": 49
+    },
+    {
+      "id": "Address one year ago",
+      "group": 1,
+      "links": 6
+    },
+    {
+      "id": "Adult",
+      "group": 2,
+      "links": 9
+    },
+    {
+      "id": "Adult lifestage",
+      "group": 2,
+      "links": 12
+    },
+    {
+      "id": "Age",
+      "group": 2,
+      "links": 781
+    },
+    {
+      "id": "Age of arrival in UK",
+      "group": 1,
+      "links": 9
+    },
+    {
+      "id": "Alternative population",
+      "group": 3,
+      "links": 153
+    },
+    {
+      "id": "Area (Hectares)",
+      "group": 4,
+      "links": 29
+    },
+    {
+      "id": "Armed Forces",
+      "group": 3,
+      "links": 4
+    },
+    {
+      "id": "Average bedrooms per household",
+      "group": 1,
+      "links": 7
+    },
+    {
+      "id": "Average rooms per household",
+      "group": 1,
+      "links": 7
+    },
+    {
+      "id": "Bedrooms",
+      "group": 1,
+      "links": 85
+    },
+    {
+      "id": "Cars or Vans",
+      "group": 6,
+      "links": 81
+    },
+    {
+      "id": "Central Heating",
+      "group": 1,
+      "links": 44
+    },
+    {
+      "id": "Children",
+      "group": 5,
+      "links": 2
+    },
+    {
+      "id": "Civil partnership status",
+      "group": 5,
+      "links": 37
+    },
+    {
+      "id": "Cohabiting couple",
+      "group": 5,
+      "links": 69
+    },
+    {
+      "id": "Cohabiting couple family",
+      "group": 5,
+      "links": 33
+    },
+    {
+      "id": "Cohabiting couple household",
+      "group": 5,
+      "links": 70
+    },
+    {
+      "id": "Communal Establishment",
+      "group": 1,
+      "links": 63
+    },
+    {
+      "id": "Communal Establishment resident",
+      "group": 3,
+      "links": 106
+    },
+    {
+      "id": "Communal establishment",
+      "group": 1,
+      "links": 1
+    },
+    {
+      "id": "Commuting patterns",
+      "group": 6,
+      "links": 14
+    },
+    {
+      "id": "Concealed family",
+      "group": 5,
+      "links": 6
+    },
+    {
+      "id": "Country of Birth",
+      "group": 7,
+      "links": 136
+    },
+    {
+      "id": "Dependent child",
+      "group": 3,
+      "links": 231
+    },
+    {
+      "id": "Deprivation dimensions",
+      "group": 8,
+      "links": 1
+    },
+    {
+      "id": "Disability",
+      "group": 8,
+      "links": 184
+    },
+    {
+      "id": "Distance travelled to work",
+      "group": 6,
+      "links": 40
+    },
+    {
+      "id": "Dwelling",
+      "group": 1,
+      "links": 44
+    },
+    {
+      "id": "Economic activity",
+      "group": 10,
+      "links": 623
+    },
+    {
+      "id": "Economically active",
+      "group": 10,
+      "links": 723
+    },
+    {
+      "id": "Economically inactive",
+      "group": 10,
+      "links": 606
+    },
+    {
+      "id": "Employed (in employment)",
+      "group": 10,
+      "links": 846
+    },
+    {
+      "id": "Employee",
+      "group": 3,
+      "links": 438
+    },
+    {
+      "id": "Employment",
+      "group": 10,
+      "links": 2
+    },
+    {
+      "id": "Ethnic Group",
+      "group": 7,
+      "links": 177
+    },
+    {
+      "id": "FRP (Family Reference Person)",
+      "group": 3,
+      "links": 18
+    },
+    {
+      "id": "Family",
+      "group": 3,
+      "links": 71
+    },
+    {
+      "id": "Family type",
+      "group": 3,
+      "links": 2
+    },
+    {
+      "id": "Full-time working",
+      "group": 10,
+      "links": 651
+    },
+    {
+      "id": "HRP (Household reference person)",
+      "group": 3,
+      "links": 228
+    },
+    {
+      "id": "Health (general)",
+      "group": 9,
+      "links": 147
+    },
+    {
+      "id": "Highest level of qualification",
+      "group": 8,
+      "links": 145
+    },
+    {
+      "id": "Home-worker",
+      "group": 3,
+      "links": 21
+    },
+    {
+      "id": "Hours worked",
+      "group": 10,
+      "links": 83
+    },
+    {
+      "id": "Household",
+      "group": 3,
+      "links": 342
+    },
+    {
+      "id": "Household Language",
+      "group": 7,
+      "links": 2
+    },
+    {
+      "id": "Household composition",
+      "group": 5,
+      "links": 177
+    },
+    {
+      "id": "Household lifestage",
+      "group": 2,
+      "links": 8
+    },
+    {
+      "id": "Household resident",
+      "group": 3,
+      "links": 60
+    },
+    {
+      "id": "Household size",
+      "group": 5,
+      "links": 21
+    },
+    {
+      "id": "Household space",
+      "group": 5,
+      "links": 44
+    },
+    {
+      "id": "Household type",
+      "group": 5,
+      "links": 21
+    },
+    {
+      "id": "Industry",
+      "group": 10,
+      "links": 133
+    },
+    {
+      "id": "Language",
+      "group": 7,
+      "links": 6
+    },
+    {
+      "id": "Length of residence in UK",
+      "group": 7,
+      "links": 8
+    },
+    {
+      "id": "Living arrangements",
+      "group": 5,
+      "links": 55
+    },
+    {
+      "id": "Living in a couple",
+      "group": 5,
+      "links": 27
+    },
+    {
+      "id": "Lone parent",
+      "group": 5,
+      "links": 83
+    },
+    {
+      "id": "Lone parent family",
+      "group": 3,
+      "links": 37
+    },
+    {
+      "id": "Lone parent household",
+      "group": 3,
+      "links": 70
+    },
+    {
+      "id": "Long-term health problem or disability",
+      "group": 9,
+      "links": 169
+    },
+    {
+      "id": "Long-term unemployed",
+      "group": 10,
+      "links": 480
+    },
+    {
+      "id": "Main job",
+      "group": 10,
+      "links": 201
+    },
+    {
+      "id": "Main language",
+      "group": 7,
+      "links": 10
+    },
+    {
+      "id": "Marital and Civil partnership status",
+      "group": 5,
+      "links": 29
+    },
+    {
+      "id": "Marital status",
+      "group": 5,
+      "links": 37
+    },
+    {
+      "id": "Married couple family",
+      "group": 3,
+      "links": 102
+    },
+    {
+      "id": "Married couple household",
+      "group": 3,
+      "links": 139
+    },
+    {
+      "id": "Mean age",
+      "group": 2,
+      "links": 6
+    },
+    {
+      "id": "Median age",
+      "group": 2,
+      "links": 6
+    },
+    {
+      "id": "Method of travel to work",
+      "group": 6,
+      "links": 44
+    },
+    {
+      "id": "Migration",
+      "group": 6,
+      "links": 36
+    },
+    {
+      "id": "Migration flows",
+      "group": 6,
+      "links": 10
+    },
+    {
+      "id": "Multiple Ethnic Group",
+      "group": 7,
+      "links": 4
+    },
+    {
+      "id": "NS-SeC",
+      "group": 8,
+      "links": 181
+    },
+    {
+      "id": "National Identity",
+      "group": 7,
+      "links": 16
+    },
+    {
+      "id": "Not in employment",
+      "group": 10,
+      "links": 20
+    },
+    {
+      "id": "Not living in a couple",
+      "group": 5,
+      "links": 24
+    },
+    {
+      "id": "Occupancy rating",
+      "group": 5,
+      "links": 96
+    },
+    {
+      "id": "Occupation",
+      "group": 10,
+      "links": 134
+    },
+    {
+      "id": "Occupied household space",
+      "group": 5,
+      "links": 6
+    },
+    {
+      "id": "One family only",
+      "group": 5,
+      "links": 65
+    },
+    {
+      "id": "Out of term population",
+      "group": 3,
+      "links": 52
+    },
+    {
+      "id": "Part-time working",
+      "group": 10,
+      "links": 643
+    },
+    {
+      "id": "Passports Held",
+      "group": 7,
+      "links": 120
+    },
+    {
+      "id": "Persons per bedroom",
+      "group": 5,
+      "links": 14
+    },
+    {
+      "id": "Persons per room",
+      "group": 5,
+      "links": 20
+    },
+    {
+      "id": "Population",
+      "group": 4,
+      "links": 2
+    },
+    {
+      "id": "Population density",
+      "group": 4,
+      "links": 29
+    },
+    {
+      "id": "Position",
+      "group": 3,
+      "links": 1
+    },
+    {
+      "id": "Position in communal establishment",
+      "group": 3,
+      "links": 82
+    },
+    {
+      "id": "Proficiency in English",
+      "group": 7,
+      "links": 35
+    },
+    {
+      "id": "Religion",
+      "group": 7,
+      "links": 120
+    },
+    {
+      "id": "Rooms",
+      "group": 1,
+      "links": 74
+    },
+    {
+      "id": "Same-sex civil partnership couple",
+      "group": 5,
+      "links": 69
+    },
+    {
+      "id": "Same-sex civil partnership couple family",
+      "group": 5,
+      "links": 47
+    },
+    {
+      "id": "Same-sex civil partnership couple household",
+      "group": 5,
+      "links": 56
+    },
+    {
+      "id": "Schoolchildren",
+      "group": 3,
+      "links": 373
+    },
+    {
+      "id": "Second address",
+      "group": 1,
+      "links": 7
+    },
+    {
+      "id": "Self-employed",
+      "group": 10,
+      "links": 491
+    },
+    {
+      "id": "Sex",
+      "group": 2,
+      "links": 666
+    },
+    {
+      "id": "Sleeping rough",
+      "group": 5,
+      "links": 4
+    },
+    {
+      "id": "Social grade (approximated)",
+      "group": 8,
+      "links": 25
+    },
+    {
+      "id": "Student accommodation",
+      "group": 1,
+      "links": 13
+    },
+    {
+      "id": "Student status",
+      "group": 10,
+      "links": 6
+    },
+    {
+      "id": "Students",
+      "group": 3,
+      "links": 627
+    },
+    {
+      "id": "Students and schoolchildren",
+      "group": 3,
+      "links": 6
+    },
+    {
+      "id": "Tenure",
+      "group": 1,
+      "links": 170
+    },
+    {
+      "id": "Term-time Resident",
+      "group": 3,
+      "links": 3
+    },
+    {
+      "id": "Unemployed",
+      "group": 10,
+      "links": 703
+    },
+    {
+      "id": "Unpaid care (provision of)",
+      "group": 10,
+      "links": 67
+    },
+    {
+      "id": "Usual Resident",
+      "group": 3,
+      "links": 458
+    },
+    {
+      "id": "Usual residence",
+      "group": 1,
+      "links": 3
+    },
+    {
+      "id": "Welsh language skills",
+      "group": 7,
+      "links": 95
+    },
+    {
+      "id": "Workday population",
+      "group": 4,
+      "links": 47
+    },
+    {
+      "id": "Workplace flows",
+      "group": 6,
+      "links": 17
+    },
+    {
+      "id": "Workplace population",
+      "group": 4,
+      "links": 79
+    },
+    {
+      "id": "Year last worked",
+      "group": 10,
+      "links": 23
+    },
+    {
+      "id": "Year of arrival in UK",
+      "group": 7,
+      "links": 60
+    }
+  ],
+  "links": [
+    {
+      "source": "Accommodation type",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Bedrooms",
+      "value": 2
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Cars or Vans",
+      "value": 2
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Central Heating",
+      "value": 2
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Dependent child",
+      "value": 2
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Dwelling",
+      "value": 6
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Household",
+      "value": 8
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Household space",
+      "value": 8
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Persons per bedroom",
+      "value": 2
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Persons per room",
+      "value": 2
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Tenure",
+      "value": 6
+    },
+    {
+      "source": "Accommodation type",
+      "target": "Usual Resident",
+      "value": 4
+    },
+    {
+      "source": "Address one year ago",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Address one year ago",
+      "target": "Sex",
+      "value": 2
+    },
+    {
+      "source": "Address one year ago",
+      "target": "Student status",
+      "value": 2
+    },
+    {
+      "source": "Adult",
+      "target": "Dependent child",
+      "value": 3
+    },
+    {
+      "source": "Adult",
+      "target": "Disability",
+      "value": 1
+    },
+    {
+      "source": "Adult",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Adult",
+      "target": "Long-term health problem or disability",
+      "value": 1
+    },
+    {
+      "source": "Adult",
+      "target": "Not in employment",
+      "value": 1
+    },
+    {
+      "source": "Adult lifestage",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Adult lifestage",
+      "target": "HRP (Household reference person)",
+      "value": 1
+    },
+    {
+      "source": "Adult lifestage",
+      "target": "Household",
+      "value": 2
+    },
+    {
+      "source": "Age",
+      "target": "Alternative population",
+      "value": 8
+    },
+    {
+      "source": "Age",
+      "target": "Full-time working",
+      "value": 20
+    },
+    {
+      "source": "Age",
+      "target": "HRP (Household reference person)",
+      "value": 15
+    },
+    {
+      "source": "Age",
+      "target": "Health (general)",
+      "value": 23
+    },
+    {
+      "source": "Age",
+      "target": "Highest level of qualification",
+      "value": 19
+    },
+    {
+      "source": "Age",
+      "target": "Home-worker",
+      "value": 3
+    },
+    {
+      "source": "Age",
+      "target": "Hours worked",
+      "value": 3
+    },
+    {
+      "source": "Age",
+      "target": "Household",
+      "value": 8
+    },
+    {
+      "source": "Age",
+      "target": "Household composition",
+      "value": 3
+    },
+    {
+      "source": "Age",
+      "target": "Household lifestage",
+      "value": 2
+    },
+    {
+      "source": "Age",
+      "target": "Household resident",
+      "value": 4
+    },
+    {
+      "source": "Age",
+      "target": "Household type",
+      "value": 4
+    },
+    {
+      "source": "Age",
+      "target": "Industry",
+      "value": 11
+    },
+    {
+      "source": "Age",
+      "target": "Language",
+      "value": 1
+    },
+    {
+      "source": "Age",
+      "target": "Living arrangements",
+      "value": 4
+    },
+    {
+      "source": "Age",
+      "target": "Living in a couple",
+      "value": 1
+    },
+    {
+      "source": "Age",
+      "target": "Lone parent family",
+      "value": 5
+    },
+    {
+      "source": "Age",
+      "target": "Long-term health problem or disability",
+      "value": 20
+    },
+    {
+      "source": "Age",
+      "target": "Long-term unemployed",
+      "value": 10
+    },
+    {
+      "source": "Age",
+      "target": "Main job",
+      "value": 2
+    },
+    {
+      "source": "Age",
+      "target": "Main language",
+      "value": 1
+    },
+    {
+      "source": "Age",
+      "target": "Marital and Civil partnership status",
+      "value": 5
+    },
+    {
+      "source": "Age",
+      "target": "Marital status",
+      "value": 2
+    },
+    {
+      "source": "Age",
+      "target": "Married couple family",
+      "value": 4
+    },
+    {
+      "source": "Age",
+      "target": "Mean age",
+      "value": 2
+    },
+    {
+      "source": "Age",
+      "target": "Median age",
+      "value": 2
+    },
+    {
+      "source": "Age",
+      "target": "Method of travel to work",
+      "value": 3
+    },
+    {
+      "source": "Age",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Age",
+      "target": "Migration flows",
+      "value": 6
+    },
+    {
+      "source": "Age",
+      "target": "NS-SeC",
+      "value": 15
+    },
+    {
+      "source": "Age",
+      "target": "National Identity",
+      "value": 5
+    },
+    {
+      "source": "Age",
+      "target": "Not in employment",
+      "value": 4
+    },
+    {
+      "source": "Age",
+      "target": "Occupancy rating",
+      "value": 3
+    },
+    {
+      "source": "Age",
+      "target": "Occupation",
+      "value": 14
+    },
+    {
+      "source": "Age",
+      "target": "One family only",
+      "value": 1
+    },
+    {
+      "source": "Age",
+      "target": "Out of term population",
+      "value": 2
+    },
+    {
+      "source": "Age",
+      "target": "Part-time working",
+      "value": 20
+    },
+    {
+      "source": "Age",
+      "target": "Passports Held",
+      "value": 11
+    },
+    {
+      "source": "Age",
+      "target": "Position in communal establishment",
+      "value": 14
+    },
+    {
+      "source": "Age",
+      "target": "Proficiency in English",
+      "value": 4
+    },
+    {
+      "source": "Age",
+      "target": "Religion",
+      "value": 10
+    },
+    {
+      "source": "Age",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Age",
+      "target": "Same-sex civil partnership couple family",
+      "value": 4
+    },
+    {
+      "source": "Age",
+      "target": "Schoolchildren",
+      "value": 6
+    },
+    {
+      "source": "Age of arrival in UK",
+      "target": "Passports Held",
+      "value": 2
+    },
+    {
+      "source": "Age of arrival in UK",
+      "target": "Proficiency in English",
+      "value": 2
+    },
+    {
+      "source": "Alternative population",
+      "target": "Area (Hectares)",
+      "value": 3
+    },
+    {
+      "source": "Alternative population",
+      "target": "Main language",
+      "value": 3
+    },
+    {
+      "source": "Alternative population",
+      "target": "Method of travel to work",
+      "value": 6
+    },
+    {
+      "source": "Alternative population",
+      "target": "NS-SeC",
+      "value": 3
+    },
+    {
+      "source": "Alternative population",
+      "target": "Occupation",
+      "value": 7
+    },
+    {
+      "source": "Alternative population",
+      "target": "Part-time working",
+      "value": 1
+    },
+    {
+      "source": "Alternative population",
+      "target": "Passports Held",
+      "value": 3
+    },
+    {
+      "source": "Alternative population",
+      "target": "Population",
+      "value": 1
+    },
+    {
+      "source": "Alternative population",
+      "target": "Population density",
+      "value": 3
+    },
+    {
+      "source": "Alternative population",
+      "target": "Religion",
+      "value": 3
+    },
+    {
+      "source": "Area (Hectares)",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Area (Hectares)",
+      "target": "Population density",
+      "value": 8
+    },
+    {
+      "source": "Area (Hectares)",
+      "target": "Schoolchildren",
+      "value": 2
+    },
+    {
+      "source": "Average bedrooms per household",
+      "target": "Rooms",
+      "value": 1
+    },
+    {
+      "source": "Average rooms per household",
+      "target": "Average bedrooms per household",
+      "value": 1
+    },
+    {
+      "source": "Average rooms per household",
+      "target": "Bedrooms",
+      "value": 1
+    },
+    {
+      "source": "Average rooms per household",
+      "target": "Central Heating",
+      "value": 1
+    },
+    {
+      "source": "Average rooms per household",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Average rooms per household",
+      "target": "Household size",
+      "value": 1
+    },
+    {
+      "source": "Average rooms per household",
+      "target": "Occupancy rating",
+      "value": 1
+    },
+    {
+      "source": "Average rooms per household",
+      "target": "Rooms",
+      "value": 1
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Age",
+      "value": 5
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Average bedrooms per household",
+      "value": 1
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Central Heating",
+      "value": 4
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Cohabiting couple household",
+      "value": 3
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Dependent child",
+      "value": 4
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Disability",
+      "value": 2
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Dwelling",
+      "value": 2
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Ethnic Group",
+      "value": 3
+    },
+    {
+      "source": "Bedrooms",
+      "target": "HRP (Household reference person)",
+      "value": 5
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Household",
+      "value": 5
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Household composition",
+      "value": 4
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Household size",
+      "value": 3
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Household space",
+      "value": 1
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Lone parent household",
+      "value": 3
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Married couple household",
+      "value": 3
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Occupancy rating",
+      "value": 13
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Occupation",
+      "value": 1
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Persons per bedroom",
+      "value": 2
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Rooms",
+      "value": 1
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Same-sex civil partnership couple family",
+      "value": 1
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Same-sex civil partnership couple household",
+      "value": 2
+    },
+    {
+      "source": "Bedrooms",
+      "target": "Usual Resident",
+      "value": 1
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Age",
+      "value": 4
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Cohabiting couple household",
+      "value": 2
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Disability",
+      "value": 4
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Distance travelled to work",
+      "value": 2
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Economic activity",
+      "value": 1
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Economically active",
+      "value": 1
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Economically inactive",
+      "value": 1
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Employed (in employment)",
+      "value": 2
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Employee",
+      "value": 1
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Ethnic Group",
+      "value": 4
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Full-time working",
+      "value": 1
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "HRP (Household reference person)",
+      "value": 3
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Household",
+      "value": 7
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Household composition",
+      "value": 3
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Lone parent household",
+      "value": 2
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Long-term health problem or disability",
+      "value": 4
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Married couple household",
+      "value": 2
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Method of travel to work",
+      "value": 2
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Part-time working",
+      "value": 1
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Religion",
+      "value": 3
+    },
+    {
+      "source": "Cars or Vans",
+      "target": "Same-sex civil partnership couple household",
+      "value": 2
+    },
+    {
+      "source": "Central Heating",
+      "target": "Age",
+      "value": 1
+    },
+    {
+      "source": "Central Heating",
+      "target": "Average bedrooms per household",
+      "value": 1
+    },
+    {
+      "source": "Central Heating",
+      "target": "Dwelling",
+      "value": 4
+    },
+    {
+      "source": "Central Heating",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Central Heating",
+      "target": "HRP (Household reference person)",
+      "value": 4
+    },
+    {
+      "source": "Central Heating",
+      "target": "Household",
+      "value": 3
+    },
+    {
+      "source": "Central Heating",
+      "target": "Household size",
+      "value": 1
+    },
+    {
+      "source": "Central Heating",
+      "target": "Household space",
+      "value": 2
+    },
+    {
+      "source": "Central Heating",
+      "target": "Occupancy rating",
+      "value": 8
+    },
+    {
+      "source": "Central Heating",
+      "target": "Occupied household space",
+      "value": 2
+    },
+    {
+      "source": "Central Heating",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Central Heating",
+      "target": "Rooms",
+      "value": 5
+    },
+    {
+      "source": "Children",
+      "target": "Disability",
+      "value": 1
+    },
+    {
+      "source": "Children",
+      "target": "Long-term health problem or disability",
+      "value": 1
+    },
+    {
+      "source": "Civil partnership status",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Civil partnership status",
+      "target": "HRP (Household reference person)",
+      "value": 1
+    },
+    {
+      "source": "Civil partnership status",
+      "target": "Household",
+      "value": 4
+    },
+    {
+      "source": "Civil partnership status",
+      "target": "Living arrangements",
+      "value": 4
+    },
+    {
+      "source": "Civil partnership status",
+      "target": "Living in a couple",
+      "value": 4
+    },
+    {
+      "source": "Civil partnership status",
+      "target": "Marital status",
+      "value": 9
+    },
+    {
+      "source": "Civil partnership status",
+      "target": "Not living in a couple",
+      "value": 4
+    },
+    {
+      "source": "Civil partnership status",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "Dependent child",
+      "value": 7
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "Household",
+      "value": 7
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "Household composition",
+      "value": 6
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "Household type",
+      "value": 1
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "Lone parent",
+      "value": 7
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "Married couple family",
+      "value": 7
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "Married couple household",
+      "value": 7
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "One family only",
+      "value": 6
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "Same-sex civil partnership couple",
+      "value": 7
+    },
+    {
+      "source": "Cohabiting couple",
+      "target": "Schoolchildren",
+      "value": 6
+    },
+    {
+      "source": "Cohabiting couple family",
+      "target": "Age",
+      "value": 4
+    },
+    {
+      "source": "Cohabiting couple family",
+      "target": "Dependent child",
+      "value": 3
+    },
+    {
+      "source": "Cohabiting couple family",
+      "target": "FRP (Family Reference Person)",
+      "value": 1
+    },
+    {
+      "source": "Cohabiting couple family",
+      "target": "Family",
+      "value": 5
+    },
+    {
+      "source": "Cohabiting couple family",
+      "target": "Lone parent family",
+      "value": 5
+    },
+    {
+      "source": "Cohabiting couple family",
+      "target": "Marital and Civil partnership status",
+      "value": 3
+    },
+    {
+      "source": "Cohabiting couple family",
+      "target": "Married couple family",
+      "value": 5
+    },
+    {
+      "source": "Cohabiting couple family",
+      "target": "Same-sex civil partnership couple family",
+      "value": 5
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Disability",
+      "value": 2
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "HRP (Household reference person)",
+      "value": 4
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Household composition",
+      "value": 12
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Lone parent household",
+      "value": 12
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Married couple household",
+      "value": 12
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Occupancy rating",
+      "value": 2
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Rooms",
+      "value": 1
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Same-sex civil partnership couple family",
+      "value": 2
+    },
+    {
+      "source": "Cohabiting couple household",
+      "target": "Same-sex civil partnership couple household",
+      "value": 10
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Age",
+      "value": 3
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Area (Hectares)",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Armed Forces",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Communal Establishment resident",
+      "value": 7
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Disability",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Ethnic Group",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Health (general)",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Household",
+      "value": 6
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Household resident",
+      "value": 5
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Long-term health problem or disability",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Population density",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Position in communal establishment",
+      "value": 8
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment",
+      "target": "Schoolchildren",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Age",
+      "value": 19
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Country of Birth",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Disability",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Economic activity",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Economically active",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Economically inactive",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Employed (in employment)",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Employee",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Full-time working",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Highest level of qualification",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Household",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Household resident",
+      "value": 4
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Industry",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Long-term unemployed",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Main job",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Marital and Civil partnership status",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "NS-SeC",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Occupation",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Position in communal establishment",
+      "value": 17
+    },
+    {
+      "source": "Communal Establishment resident",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Communal establishment",
+      "target": "Position",
+      "value": 1
+    },
+    {
+      "source": "Commuting patterns",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Commuting patterns",
+      "target": "Method of travel to work",
+      "value": 2
+    },
+    {
+      "source": "Concealed family",
+      "target": "Dependent child",
+      "value": 2
+    },
+    {
+      "source": "Concealed family",
+      "target": "FRP (Family Reference Person)",
+      "value": 2
+    },
+    {
+      "source": "Concealed family",
+      "target": "Family",
+      "value": 2
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Age",
+      "value": 13
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Age of arrival in UK",
+      "value": 2
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Alternative population",
+      "value": 3
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Dependent child",
+      "value": 1
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Economic activity",
+      "value": 7
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Economically active",
+      "value": 7
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Economically inactive",
+      "value": 7
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Employed (in employment)",
+      "value": 7
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Employee",
+      "value": 4
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Full-time working",
+      "value": 7
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Health (general)",
+      "value": 1
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Highest level of qualification",
+      "value": 5
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Industry",
+      "value": 1
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Long-term unemployed",
+      "value": 4
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Main job",
+      "value": 1
+    },
+    {
+      "source": "Country of Birth",
+      "target": "National Identity",
+      "value": 1
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Occupation",
+      "value": 1
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Part-time working",
+      "value": 7
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Passports Held",
+      "value": 2
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Proficiency in English",
+      "value": 1
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Country of Birth",
+      "target": "Schoolchildren",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Adult lifestage",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Age",
+      "value": 20
+    },
+    {
+      "source": "Dependent child",
+      "target": "Disability",
+      "value": 1
+    },
+    {
+      "source": "Dependent child",
+      "target": "Economic activity",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Economically active",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Economically inactive",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Employed (in employment)",
+      "value": 4
+    },
+    {
+      "source": "Dependent child",
+      "target": "Employee",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Ethnic Group",
+      "value": 4
+    },
+    {
+      "source": "Dependent child",
+      "target": "FRP (Family Reference Person)",
+      "value": 4
+    },
+    {
+      "source": "Dependent child",
+      "target": "Family",
+      "value": 12
+    },
+    {
+      "source": "Dependent child",
+      "target": "Full-time working",
+      "value": 4
+    },
+    {
+      "source": "Dependent child",
+      "target": "HRP (Household reference person)",
+      "value": 6
+    },
+    {
+      "source": "Dependent child",
+      "target": "Highest level of qualification",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Hours worked",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Household",
+      "value": 20
+    },
+    {
+      "source": "Dependent child",
+      "target": "Household composition",
+      "value": 15
+    },
+    {
+      "source": "Dependent child",
+      "target": "Household lifestage",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Household type",
+      "value": 5
+    },
+    {
+      "source": "Dependent child",
+      "target": "Lone parent",
+      "value": 9
+    },
+    {
+      "source": "Dependent child",
+      "target": "Lone parent family",
+      "value": 4
+    },
+    {
+      "source": "Dependent child",
+      "target": "Long-term health problem or disability",
+      "value": 1
+    },
+    {
+      "source": "Dependent child",
+      "target": "Long-term unemployed",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Main job",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Marital and Civil partnership status",
+      "value": 3
+    },
+    {
+      "source": "Dependent child",
+      "target": "Married couple family",
+      "value": 10
+    },
+    {
+      "source": "Dependent child",
+      "target": "Married couple household",
+      "value": 7
+    },
+    {
+      "source": "Dependent child",
+      "target": "Migration",
+      "value": 1
+    },
+    {
+      "source": "Dependent child",
+      "target": "NS-SeC",
+      "value": 1
+    },
+    {
+      "source": "Dependent child",
+      "target": "Not in employment",
+      "value": 1
+    },
+    {
+      "source": "Dependent child",
+      "target": "One family only",
+      "value": 6
+    },
+    {
+      "source": "Dependent child",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Dependent child",
+      "target": "Proficiency in English",
+      "value": 1
+    },
+    {
+      "source": "Dependent child",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Dependent child",
+      "target": "Same-sex civil partnership couple",
+      "value": 7
+    },
+    {
+      "source": "Dependent child",
+      "target": "Same-sex civil partnership couple family",
+      "value": 3
+    },
+    {
+      "source": "Dependent child",
+      "target": "Schoolchildren",
+      "value": 6
+    },
+    {
+      "source": "Deprivation dimensions",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Disability",
+      "target": "Age",
+      "value": 21
+    },
+    {
+      "source": "Disability",
+      "target": "Economic activity",
+      "value": 3
+    },
+    {
+      "source": "Disability",
+      "target": "Economically active",
+      "value": 3
+    },
+    {
+      "source": "Disability",
+      "target": "Economically inactive",
+      "value": 3
+    },
+    {
+      "source": "Disability",
+      "target": "Employed (in employment)",
+      "value": 3
+    },
+    {
+      "source": "Disability",
+      "target": "Employee",
+      "value": 1
+    },
+    {
+      "source": "Disability",
+      "target": "Ethnic Group",
+      "value": 3
+    },
+    {
+      "source": "Disability",
+      "target": "Full-time working",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Health (general)",
+      "value": 16
+    },
+    {
+      "source": "Disability",
+      "target": "Highest level of qualification",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Hours worked",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Disability",
+      "target": "Household composition",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Lone parent household",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Long-term health problem or disability",
+      "value": 41
+    },
+    {
+      "source": "Disability",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Disability",
+      "target": "Married couple household",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Migration",
+      "value": 1
+    },
+    {
+      "source": "Disability",
+      "target": "NS-SeC",
+      "value": 3
+    },
+    {
+      "source": "Disability",
+      "target": "Not in employment",
+      "value": 1
+    },
+    {
+      "source": "Disability",
+      "target": "Occupancy rating",
+      "value": 4
+    },
+    {
+      "source": "Disability",
+      "target": "Part-time working",
+      "value": 3
+    },
+    {
+      "source": "Disability",
+      "target": "Position in communal establishment",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Same-sex civil partnership couple household",
+      "value": 2
+    },
+    {
+      "source": "Disability",
+      "target": "Schoolchildren",
+      "value": 1
+    },
+    {
+      "source": "Distance travelled to work",
+      "target": "Age",
+      "value": 3
+    },
+    {
+      "source": "Distance travelled to work",
+      "target": "Alternative population",
+      "value": 6
+    },
+    {
+      "source": "Distance travelled to work",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Distance travelled to work",
+      "target": "Highest level of qualification",
+      "value": 2
+    },
+    {
+      "source": "Distance travelled to work",
+      "target": "Hours worked",
+      "value": 2
+    },
+    {
+      "source": "Distance travelled to work",
+      "target": "Industry",
+      "value": 3
+    },
+    {
+      "source": "Distance travelled to work",
+      "target": "Method of travel to work",
+      "value": 3
+    },
+    {
+      "source": "Distance travelled to work",
+      "target": "NS-SeC",
+      "value": 2
+    },
+    {
+      "source": "Distance travelled to work",
+      "target": "Occupation",
+      "value": 3
+    },
+    {
+      "source": "Dwelling",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Dwelling",
+      "target": "HRP (Household reference person)",
+      "value": 4
+    },
+    {
+      "source": "Dwelling",
+      "target": "Household",
+      "value": 8
+    },
+    {
+      "source": "Dwelling",
+      "target": "Household space",
+      "value": 8
+    },
+    {
+      "source": "Dwelling",
+      "target": "Occupancy rating",
+      "value": 4
+    },
+    {
+      "source": "Dwelling",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Dwelling",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Age",
+      "value": 18
+    },
+    {
+      "source": "Economic activity",
+      "target": "Alternative population",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Economically active",
+      "value": 58
+    },
+    {
+      "source": "Economic activity",
+      "target": "Economically inactive",
+      "value": 55
+    },
+    {
+      "source": "Economic activity",
+      "target": "Employed (in employment)",
+      "value": 58
+    },
+    {
+      "source": "Economic activity",
+      "target": "Employee",
+      "value": 38
+    },
+    {
+      "source": "Economic activity",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Family",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Full-time working",
+      "value": 52
+    },
+    {
+      "source": "Economic activity",
+      "target": "HRP (Household reference person)",
+      "value": 3
+    },
+    {
+      "source": "Economic activity",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Highest level of qualification",
+      "value": 6
+    },
+    {
+      "source": "Economic activity",
+      "target": "Home-worker",
+      "value": 1
+    },
+    {
+      "source": "Economic activity",
+      "target": "Hours worked",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Economic activity",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Economic activity",
+      "target": "Industry",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Living arrangements",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Long-term unemployed",
+      "value": 35
+    },
+    {
+      "source": "Economic activity",
+      "target": "Main job",
+      "value": 11
+    },
+    {
+      "source": "Economic activity",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "NS-SeC",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Out of term population",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Part-time working",
+      "value": 51
+    },
+    {
+      "source": "Economic activity",
+      "target": "Passports Held",
+      "value": 7
+    },
+    {
+      "source": "Economic activity",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Economic activity",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Economic activity",
+      "target": "Schoolchildren",
+      "value": 16
+    },
+    {
+      "source": "Economically active",
+      "target": "Age",
+      "value": 28
+    },
+    {
+      "source": "Economically active",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Economically active",
+      "target": "Economically inactive",
+      "value": 57
+    },
+    {
+      "source": "Economically active",
+      "target": "Employed (in employment)",
+      "value": 84
+    },
+    {
+      "source": "Economically active",
+      "target": "Employee",
+      "value": 40
+    },
+    {
+      "source": "Economically active",
+      "target": "Ethnic Group",
+      "value": 7
+    },
+    {
+      "source": "Economically active",
+      "target": "Family",
+      "value": 2
+    },
+    {
+      "source": "Economically active",
+      "target": "Full-time working",
+      "value": 54
+    },
+    {
+      "source": "Economically active",
+      "target": "HRP (Household reference person)",
+      "value": 3
+    },
+    {
+      "source": "Economically active",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Economically active",
+      "target": "Highest level of qualification",
+      "value": 7
+    },
+    {
+      "source": "Economically active",
+      "target": "Home-worker",
+      "value": 3
+    },
+    {
+      "source": "Economically active",
+      "target": "Hours worked",
+      "value": 2
+    },
+    {
+      "source": "Economically active",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Economically active",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Economically active",
+      "target": "Industry",
+      "value": 14
+    },
+    {
+      "source": "Economically active",
+      "target": "Living arrangements",
+      "value": 2
+    },
+    {
+      "source": "Economically active",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Economically active",
+      "target": "Long-term unemployed",
+      "value": 35
+    },
+    {
+      "source": "Economically active",
+      "target": "Main job",
+      "value": 11
+    },
+    {
+      "source": "Economically active",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Economically active",
+      "target": "NS-SeC",
+      "value": 2
+    },
+    {
+      "source": "Economically active",
+      "target": "Occupation",
+      "value": 12
+    },
+    {
+      "source": "Economically active",
+      "target": "Out of term population",
+      "value": 2
+    },
+    {
+      "source": "Economically active",
+      "target": "Part-time working",
+      "value": 53
+    },
+    {
+      "source": "Economically active",
+      "target": "Passports Held",
+      "value": 7
+    },
+    {
+      "source": "Economically active",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Economically active",
+      "target": "Proficiency in English",
+      "value": 2
+    },
+    {
+      "source": "Economically active",
+      "target": "Religion",
+      "value": 7
+    },
+    {
+      "source": "Economically active",
+      "target": "Schoolchildren",
+      "value": 18
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Age",
+      "value": 16
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Employed (in employment)",
+      "value": 57
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Employee",
+      "value": 35
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Family",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Full-time working",
+      "value": 49
+    },
+    {
+      "source": "Economically inactive",
+      "target": "HRP (Household reference person)",
+      "value": 3
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Highest level of qualification",
+      "value": 7
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Hours worked",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Living arrangements",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Long-term unemployed",
+      "value": 34
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Main job",
+      "value": 11
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "NS-SeC",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Out of term population",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Part-time working",
+      "value": 48
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Passports Held",
+      "value": 7
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Economically inactive",
+      "target": "Schoolchildren",
+      "value": 18
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Age",
+      "value": 33
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Employee",
+      "value": 40
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Ethnic Group",
+      "value": 7
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Family",
+      "value": 2
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Full-time working",
+      "value": 66
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "HRP (Household reference person)",
+      "value": 3
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Highest level of qualification",
+      "value": 7
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Home-worker",
+      "value": 3
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Hours worked",
+      "value": 12
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Household",
+      "value": 3
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Industry",
+      "value": 21
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Living arrangements",
+      "value": 2
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Lone parent",
+      "value": 2
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Long-term unemployed",
+      "value": 35
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Main job",
+      "value": 27
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "NS-SeC",
+      "value": 2
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Occupation",
+      "value": 21
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Out of term population",
+      "value": 5
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Part-time working",
+      "value": 65
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Passports Held",
+      "value": 7
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Proficiency in English",
+      "value": 2
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Religion",
+      "value": 7
+    },
+    {
+      "source": "Employed (in employment)",
+      "target": "Schoolchildren",
+      "value": 18
+    },
+    {
+      "source": "Employee",
+      "target": "Age",
+      "value": 10
+    },
+    {
+      "source": "Employee",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Ethnic Group",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Family",
+      "value": 2
+    },
+    {
+      "source": "Employee",
+      "target": "Full-time working",
+      "value": 39
+    },
+    {
+      "source": "Employee",
+      "target": "HRP (Household reference person)",
+      "value": 3
+    },
+    {
+      "source": "Employee",
+      "target": "Health (general)",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Home-worker",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Hours worked",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Industry",
+      "value": 3
+    },
+    {
+      "source": "Employee",
+      "target": "Living arrangements",
+      "value": 2
+    },
+    {
+      "source": "Employee",
+      "target": "Long-term health problem or disability",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Long-term unemployed",
+      "value": 35
+    },
+    {
+      "source": "Employee",
+      "target": "Main job",
+      "value": 11
+    },
+    {
+      "source": "Employee",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Employee",
+      "target": "NS-SeC",
+      "value": 2
+    },
+    {
+      "source": "Employee",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Part-time working",
+      "value": 38
+    },
+    {
+      "source": "Employee",
+      "target": "Passports Held",
+      "value": 3
+    },
+    {
+      "source": "Employee",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Proficiency in English",
+      "value": 2
+    },
+    {
+      "source": "Employee",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Employee",
+      "target": "Schoolchildren",
+      "value": 7
+    },
+    {
+      "source": "Employment",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Age",
+      "value": 20
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Age of arrival in UK",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Alternative population",
+      "value": 3
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Full-time working",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "HRP (Household reference person)",
+      "value": 13
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Health (general)",
+      "value": 5
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Highest level of qualification",
+      "value": 3
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Household",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Household composition",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Industry",
+      "value": 3
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Lone parent household",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Long-term health problem or disability",
+      "value": 3
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Married couple household",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Method of travel to work",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Multiple Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "NS-SeC",
+      "value": 3
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "National Identity",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Occupancy rating",
+      "value": 6
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Occupation",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Persons per room",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Rooms",
+      "value": 3
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Same-sex civil partnership couple household",
+      "value": 2
+    },
+    {
+      "source": "Ethnic Group",
+      "target": "Schoolchildren",
+      "value": 1
+    },
+    {
+      "source": "FRP (Family Reference Person)",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "FRP (Family Reference Person)",
+      "target": "Family",
+      "value": 4
+    },
+    {
+      "source": "FRP (Family Reference Person)",
+      "target": "Lone parent family",
+      "value": 2
+    },
+    {
+      "source": "FRP (Family Reference Person)",
+      "target": "Marital and Civil partnership status",
+      "value": 1
+    },
+    {
+      "source": "FRP (Family Reference Person)",
+      "target": "Married couple family",
+      "value": 1
+    },
+    {
+      "source": "FRP (Family Reference Person)",
+      "target": "Same-sex civil partnership couple family",
+      "value": 1
+    },
+    {
+      "source": "Family",
+      "target": "Age",
+      "value": 8
+    },
+    {
+      "source": "Family",
+      "target": "Full-time working",
+      "value": 2
+    },
+    {
+      "source": "Family",
+      "target": "Household",
+      "value": 2
+    },
+    {
+      "source": "Family",
+      "target": "Lone parent family",
+      "value": 6
+    },
+    {
+      "source": "Family",
+      "target": "Long-term unemployed",
+      "value": 2
+    },
+    {
+      "source": "Family",
+      "target": "Marital and Civil partnership status",
+      "value": 3
+    },
+    {
+      "source": "Family",
+      "target": "Married couple family",
+      "value": 5
+    },
+    {
+      "source": "Family",
+      "target": "Migration",
+      "value": 1
+    },
+    {
+      "source": "Family",
+      "target": "Same-sex civil partnership couple family",
+      "value": 5
+    },
+    {
+      "source": "Family type",
+      "target": "Highest level of qualification",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Full-time working",
+      "target": "HRP (Household reference person)",
+      "value": 3
+    },
+    {
+      "source": "Full-time working",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "Highest level of qualification",
+      "value": 5
+    },
+    {
+      "source": "Full-time working",
+      "target": "Home-worker",
+      "value": 1
+    },
+    {
+      "source": "Full-time working",
+      "target": "Hours worked",
+      "value": 11
+    },
+    {
+      "source": "Full-time working",
+      "target": "Household",
+      "value": 3
+    },
+    {
+      "source": "Full-time working",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Full-time working",
+      "target": "Industry",
+      "value": 3
+    },
+    {
+      "source": "Full-time working",
+      "target": "Living arrangements",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "Lone parent",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "Long-term health problem or disability",
+      "value": 1
+    },
+    {
+      "source": "Full-time working",
+      "target": "Long-term unemployed",
+      "value": 34
+    },
+    {
+      "source": "Full-time working",
+      "target": "Main job",
+      "value": 13
+    },
+    {
+      "source": "Full-time working",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "NS-SeC",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "Occupation",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "Out of term population",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "Part-time working",
+      "value": 64
+    },
+    {
+      "source": "Full-time working",
+      "target": "Passports Held",
+      "value": 7
+    },
+    {
+      "source": "Full-time working",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Full-time working",
+      "target": "Proficiency in English",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Full-time working",
+      "target": "Schoolchildren",
+      "value": 16
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Household",
+      "value": 10
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Household composition",
+      "value": 8
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Household lifestage",
+      "value": 2
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Industry",
+      "value": 2
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Living arrangements",
+      "value": 1
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Lone parent household",
+      "value": 4
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Long-term unemployed",
+      "value": 9
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Main job",
+      "value": 2
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Marital status",
+      "value": 1
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Married couple household",
+      "value": 4
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "NS-SeC",
+      "value": 15
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Occupancy rating",
+      "value": 8
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Occupation",
+      "value": 4
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Part-time working",
+      "value": 3
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Persons per room",
+      "value": 2
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Religion",
+      "value": 7
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Rooms",
+      "value": 4
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Same-sex civil partnership couple household",
+      "value": 4
+    },
+    {
+      "source": "HRP (Household reference person)",
+      "target": "Schoolchildren",
+      "value": 7
+    },
+    {
+      "source": "Health (general)",
+      "target": "Alternative population",
+      "value": 3
+    },
+    {
+      "source": "Health (general)",
+      "target": "Long-term health problem or disability",
+      "value": 14
+    },
+    {
+      "source": "Health (general)",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Health (general)",
+      "target": "NS-SeC",
+      "value": 3
+    },
+    {
+      "source": "Health (general)",
+      "target": "Occupancy rating",
+      "value": 4
+    },
+    {
+      "source": "Health (general)",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Health (general)",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Health (general)",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Health (general)",
+      "target": "Position in communal establishment",
+      "value": 2
+    },
+    {
+      "source": "Health (general)",
+      "target": "Proficiency in English",
+      "value": 3
+    },
+    {
+      "source": "Health (general)",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Health (general)",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Alternative population",
+      "value": 4
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Hours worked",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Household composition",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Industry",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Length of residence in UK",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Main language",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Method of travel to work",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "NS-SeC",
+      "value": 1
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Occupation",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Part-time working",
+      "value": 5
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Passports Held",
+      "value": 5
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Highest level of qualification",
+      "target": "Schoolchildren",
+      "value": 2
+    },
+    {
+      "source": "Home-worker",
+      "target": "Industry",
+      "value": 1
+    },
+    {
+      "source": "Home-worker",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Home-worker",
+      "target": "Occupation",
+      "value": 1
+    },
+    {
+      "source": "Home-worker",
+      "target": "Part-time working",
+      "value": 1
+    },
+    {
+      "source": "Hours worked",
+      "target": "Alternative population",
+      "value": 3
+    },
+    {
+      "source": "Hours worked",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Hours worked",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Hours worked",
+      "target": "Method of travel to work",
+      "value": 2
+    },
+    {
+      "source": "Hours worked",
+      "target": "Occupation",
+      "value": 2
+    },
+    {
+      "source": "Hours worked",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Hours worked",
+      "target": "Part-time working",
+      "value": 12
+    },
+    {
+      "source": "Hours worked",
+      "target": "Schoolchildren",
+      "value": 1
+    },
+    {
+      "source": "Household",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Household",
+      "target": "Area (Hectares)",
+      "value": 2
+    },
+    {
+      "source": "Household",
+      "target": "Armed Forces",
+      "value": 1
+    },
+    {
+      "source": "Household",
+      "target": "Average bedrooms per household",
+      "value": 1
+    },
+    {
+      "source": "Household",
+      "target": "Household Language",
+      "value": 1
+    },
+    {
+      "source": "Household",
+      "target": "Household composition",
+      "value": 10
+    },
+    {
+      "source": "Household",
+      "target": "Household lifestage",
+      "value": 2
+    },
+    {
+      "source": "Household",
+      "target": "Household resident",
+      "value": 10
+    },
+    {
+      "source": "Household",
+      "target": "Household size",
+      "value": 3
+    },
+    {
+      "source": "Household",
+      "target": "Household space",
+      "value": 17
+    },
+    {
+      "source": "Household",
+      "target": "Household type",
+      "value": 1
+    },
+    {
+      "source": "Household",
+      "target": "Language",
+      "value": 1
+    },
+    {
+      "source": "Household",
+      "target": "Living arrangements",
+      "value": 4
+    },
+    {
+      "source": "Household",
+      "target": "Living in a couple",
+      "value": 4
+    },
+    {
+      "source": "Household",
+      "target": "Lone parent",
+      "value": 9
+    },
+    {
+      "source": "Household",
+      "target": "Long-term health problem or disability",
+      "value": 1
+    },
+    {
+      "source": "Household",
+      "target": "Long-term unemployed",
+      "value": 7
+    },
+    {
+      "source": "Household",
+      "target": "Main job",
+      "value": 2
+    },
+    {
+      "source": "Household",
+      "target": "Marital status",
+      "value": 4
+    },
+    {
+      "source": "Household",
+      "target": "Married couple family",
+      "value": 7
+    },
+    {
+      "source": "Household",
+      "target": "Married couple household",
+      "value": 7
+    },
+    {
+      "source": "Household",
+      "target": "Multiple Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Household",
+      "target": "NS-SeC",
+      "value": 6
+    },
+    {
+      "source": "Household",
+      "target": "Not in employment",
+      "value": 1
+    },
+    {
+      "source": "Household",
+      "target": "Not living in a couple",
+      "value": 4
+    },
+    {
+      "source": "Household",
+      "target": "Occupancy rating",
+      "value": 4
+    },
+    {
+      "source": "Household",
+      "target": "Occupied household space",
+      "value": 2
+    },
+    {
+      "source": "Household",
+      "target": "One family only",
+      "value": 6
+    },
+    {
+      "source": "Household",
+      "target": "Part-time working",
+      "value": 3
+    },
+    {
+      "source": "Household",
+      "target": "Persons per bedroom",
+      "value": 2
+    },
+    {
+      "source": "Household",
+      "target": "Persons per room",
+      "value": 4
+    },
+    {
+      "source": "Household",
+      "target": "Population density",
+      "value": 2
+    },
+    {
+      "source": "Household",
+      "target": "Rooms",
+      "value": 9
+    },
+    {
+      "source": "Household",
+      "target": "Same-sex civil partnership couple",
+      "value": 7
+    },
+    {
+      "source": "Household",
+      "target": "Schoolchildren",
+      "value": 14
+    },
+    {
+      "source": "Household Language",
+      "target": "Language",
+      "value": 1
+    },
+    {
+      "source": "Household composition",
+      "target": "Lone parent",
+      "value": 6
+    },
+    {
+      "source": "Household composition",
+      "target": "Lone parent household",
+      "value": 12
+    },
+    {
+      "source": "Household composition",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Household composition",
+      "target": "Married couple family",
+      "value": 6
+    },
+    {
+      "source": "Household composition",
+      "target": "Married couple household",
+      "value": 18
+    },
+    {
+      "source": "Household composition",
+      "target": "Migration",
+      "value": 1
+    },
+    {
+      "source": "Household composition",
+      "target": "NS-SeC",
+      "value": 3
+    },
+    {
+      "source": "Household composition",
+      "target": "Occupancy rating",
+      "value": 4
+    },
+    {
+      "source": "Household composition",
+      "target": "One family only",
+      "value": 7
+    },
+    {
+      "source": "Household composition",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Household composition",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Household composition",
+      "target": "Same-sex civil partnership couple",
+      "value": 6
+    },
+    {
+      "source": "Household composition",
+      "target": "Same-sex civil partnership couple family",
+      "value": 2
+    },
+    {
+      "source": "Household composition",
+      "target": "Same-sex civil partnership couple household",
+      "value": 10
+    },
+    {
+      "source": "Household composition",
+      "target": "Schoolchildren",
+      "value": 6
+    },
+    {
+      "source": "Household resident",
+      "target": "Area (Hectares)",
+      "value": 2
+    },
+    {
+      "source": "Household resident",
+      "target": "Armed Forces",
+      "value": 1
+    },
+    {
+      "source": "Household resident",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Household resident",
+      "target": "Part-time working",
+      "value": 1
+    },
+    {
+      "source": "Household resident",
+      "target": "Persons per bedroom",
+      "value": 1
+    },
+    {
+      "source": "Household resident",
+      "target": "Persons per room",
+      "value": 2
+    },
+    {
+      "source": "Household resident",
+      "target": "Population density",
+      "value": 2
+    },
+    {
+      "source": "Household resident",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Household resident",
+      "target": "Schoolchildren",
+      "value": 2
+    },
+    {
+      "source": "Household size",
+      "target": "Average bedrooms per household",
+      "value": 1
+    },
+    {
+      "source": "Household size",
+      "target": "Household space",
+      "value": 2
+    },
+    {
+      "source": "Household size",
+      "target": "Occupancy rating",
+      "value": 1
+    },
+    {
+      "source": "Household size",
+      "target": "Rooms",
+      "value": 3
+    },
+    {
+      "source": "Household space",
+      "target": "Occupied household space",
+      "value": 2
+    },
+    {
+      "source": "Household space",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Household type",
+      "target": "Lone parent",
+      "value": 1
+    },
+    {
+      "source": "Household type",
+      "target": "Married couple family",
+      "value": 1
+    },
+    {
+      "source": "Household type",
+      "target": "Married couple household",
+      "value": 1
+    },
+    {
+      "source": "Household type",
+      "target": "Persons per bedroom",
+      "value": 2
+    },
+    {
+      "source": "Household type",
+      "target": "Same-sex civil partnership couple",
+      "value": 1
+    },
+    {
+      "source": "Industry",
+      "target": "Alternative population",
+      "value": 7
+    },
+    {
+      "source": "Industry",
+      "target": "Main job",
+      "value": 7
+    },
+    {
+      "source": "Industry",
+      "target": "Method of travel to work",
+      "value": 2
+    },
+    {
+      "source": "Industry",
+      "target": "Not in employment",
+      "value": 3
+    },
+    {
+      "source": "Industry",
+      "target": "Occupation",
+      "value": 3
+    },
+    {
+      "source": "Industry",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Industry",
+      "target": "Part-time working",
+      "value": 3
+    },
+    {
+      "source": "Industry",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Industry",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Industry",
+      "target": "Proficiency in English",
+      "value": 2
+    },
+    {
+      "source": "Industry",
+      "target": "Religion",
+      "value": 3
+    },
+    {
+      "source": "Language",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Length of residence in UK",
+      "target": "Alternative population",
+      "value": 2
+    },
+    {
+      "source": "Length of residence in UK",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Living arrangements",
+      "target": "Living in a couple",
+      "value": 5
+    },
+    {
+      "source": "Living arrangements",
+      "target": "Long-term unemployed",
+      "value": 2
+    },
+    {
+      "source": "Living arrangements",
+      "target": "Marital status",
+      "value": 4
+    },
+    {
+      "source": "Living arrangements",
+      "target": "Not living in a couple",
+      "value": 4
+    },
+    {
+      "source": "Living arrangements",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Living in a couple",
+      "target": "Marital status",
+      "value": 4
+    },
+    {
+      "source": "Living in a couple",
+      "target": "Not living in a couple",
+      "value": 4
+    },
+    {
+      "source": "Lone parent",
+      "target": "Main job",
+      "value": 2
+    },
+    {
+      "source": "Lone parent",
+      "target": "Married couple family",
+      "value": 7
+    },
+    {
+      "source": "Lone parent",
+      "target": "Married couple household",
+      "value": 7
+    },
+    {
+      "source": "Lone parent",
+      "target": "One family only",
+      "value": 6
+    },
+    {
+      "source": "Lone parent",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Lone parent",
+      "target": "Same-sex civil partnership couple",
+      "value": 7
+    },
+    {
+      "source": "Lone parent",
+      "target": "Schoolchildren",
+      "value": 6
+    },
+    {
+      "source": "Lone parent family",
+      "target": "Marital and Civil partnership status",
+      "value": 3
+    },
+    {
+      "source": "Lone parent family",
+      "target": "Married couple family",
+      "value": 5
+    },
+    {
+      "source": "Lone parent family",
+      "target": "Same-sex civil partnership couple family",
+      "value": 5
+    },
+    {
+      "source": "Lone parent household",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Lone parent household",
+      "target": "Married couple household",
+      "value": 12
+    },
+    {
+      "source": "Lone parent household",
+      "target": "Occupancy rating",
+      "value": 2
+    },
+    {
+      "source": "Lone parent household",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Lone parent household",
+      "target": "Rooms",
+      "value": 1
+    },
+    {
+      "source": "Lone parent household",
+      "target": "Same-sex civil partnership couple family",
+      "value": 2
+    },
+    {
+      "source": "Lone parent household",
+      "target": "Same-sex civil partnership couple household",
+      "value": 10
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Married couple household",
+      "value": 2
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Migration",
+      "value": 1
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "NS-SeC",
+      "value": 3
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Not in employment",
+      "value": 1
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Occupancy rating",
+      "value": 4
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Position in communal establishment",
+      "value": 2
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Same-sex civil partnership couple household",
+      "value": 2
+    },
+    {
+      "source": "Long-term health problem or disability",
+      "target": "Schoolchildren",
+      "value": 1
+    },
+    {
+      "source": "Long-term unemployed",
+      "target": "Main job",
+      "value": 11
+    },
+    {
+      "source": "Long-term unemployed",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Long-term unemployed",
+      "target": "NS-SeC",
+      "value": 15
+    },
+    {
+      "source": "Long-term unemployed",
+      "target": "Out of term population",
+      "value": 2
+    },
+    {
+      "source": "Long-term unemployed",
+      "target": "Part-time working",
+      "value": 33
+    },
+    {
+      "source": "Long-term unemployed",
+      "target": "Passports Held",
+      "value": 3
+    },
+    {
+      "source": "Long-term unemployed",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Long-term unemployed",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Long-term unemployed",
+      "target": "Schoolchildren",
+      "value": 20
+    },
+    {
+      "source": "Main job",
+      "target": "Occupation",
+      "value": 7
+    },
+    {
+      "source": "Main job",
+      "target": "Out of term population",
+      "value": 3
+    },
+    {
+      "source": "Main job",
+      "target": "Part-time working",
+      "value": 13
+    },
+    {
+      "source": "Main job",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Main job",
+      "target": "Schoolchildren",
+      "value": 7
+    },
+    {
+      "source": "Main language",
+      "target": "Proficiency in English",
+      "value": 1
+    },
+    {
+      "source": "Marital and Civil partnership status",
+      "target": "Married couple family",
+      "value": 3
+    },
+    {
+      "source": "Marital and Civil partnership status",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Marital and Civil partnership status",
+      "target": "Same-sex civil partnership couple family",
+      "value": 3
+    },
+    {
+      "source": "Marital status",
+      "target": "Not living in a couple",
+      "value": 4
+    },
+    {
+      "source": "Marital status",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Married couple family",
+      "target": "Married couple household",
+      "value": 7
+    },
+    {
+      "source": "Married couple family",
+      "target": "One family only",
+      "value": 6
+    },
+    {
+      "source": "Married couple family",
+      "target": "Same-sex civil partnership couple",
+      "value": 7
+    },
+    {
+      "source": "Married couple family",
+      "target": "Same-sex civil partnership couple family",
+      "value": 5
+    },
+    {
+      "source": "Married couple family",
+      "target": "Schoolchildren",
+      "value": 6
+    },
+    {
+      "source": "Married couple household",
+      "target": "Occupancy rating",
+      "value": 2
+    },
+    {
+      "source": "Married couple household",
+      "target": "One family only",
+      "value": 6
+    },
+    {
+      "source": "Married couple household",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Married couple household",
+      "target": "Rooms",
+      "value": 1
+    },
+    {
+      "source": "Married couple household",
+      "target": "Same-sex civil partnership couple",
+      "value": 7
+    },
+    {
+      "source": "Married couple household",
+      "target": "Same-sex civil partnership couple family",
+      "value": 2
+    },
+    {
+      "source": "Married couple household",
+      "target": "Same-sex civil partnership couple household",
+      "value": 10
+    },
+    {
+      "source": "Married couple household",
+      "target": "Schoolchildren",
+      "value": 6
+    },
+    {
+      "source": "Mean age",
+      "target": "Median age",
+      "value": 2
+    },
+    {
+      "source": "Method of travel to work",
+      "target": "NS-SeC",
+      "value": 2
+    },
+    {
+      "source": "Method of travel to work",
+      "target": "Occupation",
+      "value": 2
+    },
+    {
+      "source": "Migration",
+      "target": "NS-SeC",
+      "value": 3
+    },
+    {
+      "source": "Migration",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "NS-SeC",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "NS-SeC",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "NS-SeC",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "NS-SeC",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "NS-SeC",
+      "target": "Schoolchildren",
+      "value": 13
+    },
+    {
+      "source": "National Identity",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Not in employment",
+      "target": "Occupation",
+      "value": 3
+    },
+    {
+      "source": "Occupancy rating",
+      "target": "Average bedrooms per household",
+      "value": 1
+    },
+    {
+      "source": "Occupancy rating",
+      "target": "Religion",
+      "value": 4
+    },
+    {
+      "source": "Occupancy rating",
+      "target": "Rooms",
+      "value": 15
+    },
+    {
+      "source": "Occupancy rating",
+      "target": "Same-sex civil partnership couple family",
+      "value": 2
+    },
+    {
+      "source": "Occupation",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Occupation",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Occupation",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Occupation",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Occupation",
+      "target": "Proficiency in English",
+      "value": 2
+    },
+    {
+      "source": "Occupation",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "One family only",
+      "target": "Same-sex civil partnership couple",
+      "value": 6
+    },
+    {
+      "source": "One family only",
+      "target": "Schoolchildren",
+      "value": 6
+    },
+    {
+      "source": "Out of term population",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Out of term population",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Out of term population",
+      "target": "Population density",
+      "value": 1
+    },
+    {
+      "source": "Out of term population",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Out of term population",
+      "target": "Schoolchildren",
+      "value": 1
+    },
+    {
+      "source": "Part-time working",
+      "target": "Passports Held",
+      "value": 7
+    },
+    {
+      "source": "Part-time working",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Part-time working",
+      "target": "Proficiency in English",
+      "value": 2
+    },
+    {
+      "source": "Part-time working",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Part-time working",
+      "target": "Schoolchildren",
+      "value": 16
+    },
+    {
+      "source": "Passports Held",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Passports Held",
+      "target": "Proficiency in English",
+      "value": 1
+    },
+    {
+      "source": "Passports Held",
+      "target": "Schoolchildren",
+      "value": 3
+    },
+    {
+      "source": "Persons per room",
+      "target": "Rooms",
+      "value": 4
+    },
+    {
+      "source": "Population density",
+      "target": "Schoolchildren",
+      "value": 2
+    },
+    {
+      "source": "Position in communal establishment",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Religion",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Religion",
+      "target": "Same-sex civil partnership couple household",
+      "value": 2
+    },
+    {
+      "source": "Religion",
+      "target": "Schoolchildren",
+      "value": 1
+    },
+    {
+      "source": "Rooms",
+      "target": "Same-sex civil partnership couple family",
+      "value": 1
+    },
+    {
+      "source": "Same-sex civil partnership couple",
+      "target": "Schoolchildren",
+      "value": 6
+    },
+    {
+      "source": "Second address",
+      "target": "Age",
+      "value": 1
+    },
+    {
+      "source": "Second address",
+      "target": "Dependent child",
+      "value": 1
+    },
+    {
+      "source": "Second address",
+      "target": "Sex",
+      "value": 1
+    },
+    {
+      "source": "Second address",
+      "target": "Usual Resident",
+      "value": 1
+    },
+    {
+      "source": "Second address",
+      "target": "Workplace flows",
+      "value": 3
+    },
+    {
+      "source": "Self-employed",
+      "target": "Age",
+      "value": 13
+    },
+    {
+      "source": "Self-employed",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Cars or Vans",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Communal Establishment resident",
+      "value": 2
+    },
+    {
+      "source": "Self-employed",
+      "target": "Country of Birth",
+      "value": 6
+    },
+    {
+      "source": "Self-employed",
+      "target": "Disability",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Economic activity",
+      "value": 43
+    },
+    {
+      "source": "Self-employed",
+      "target": "Economically active",
+      "value": 43
+    },
+    {
+      "source": "Self-employed",
+      "target": "Economically inactive",
+      "value": 40
+    },
+    {
+      "source": "Self-employed",
+      "target": "Employed (in employment)",
+      "value": 43
+    },
+    {
+      "source": "Self-employed",
+      "target": "Employee",
+      "value": 29
+    },
+    {
+      "source": "Self-employed",
+      "target": "Ethnic Group",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Full-time working",
+      "value": 43
+    },
+    {
+      "source": "Self-employed",
+      "target": "HRP (Household reference person)",
+      "value": 2
+    },
+    {
+      "source": "Self-employed",
+      "target": "Health (general)",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Highest level of qualification",
+      "value": 5
+    },
+    {
+      "source": "Self-employed",
+      "target": "Home-worker",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Industry",
+      "value": 2
+    },
+    {
+      "source": "Self-employed",
+      "target": "Living arrangements",
+      "value": 2
+    },
+    {
+      "source": "Self-employed",
+      "target": "Long-term unemployed",
+      "value": 26
+    },
+    {
+      "source": "Self-employed",
+      "target": "Main job",
+      "value": 11
+    },
+    {
+      "source": "Self-employed",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Self-employed",
+      "target": "NS-SeC",
+      "value": 2
+    },
+    {
+      "source": "Self-employed",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Part-time working",
+      "value": 43
+    },
+    {
+      "source": "Self-employed",
+      "target": "Passports Held",
+      "value": 6
+    },
+    {
+      "source": "Self-employed",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Schoolchildren",
+      "value": 15
+    },
+    {
+      "source": "Self-employed",
+      "target": "Sex",
+      "value": 14
+    },
+    {
+      "source": "Self-employed",
+      "target": "Students",
+      "value": 36
+    },
+    {
+      "source": "Self-employed",
+      "target": "Tenure",
+      "value": 1
+    },
+    {
+      "source": "Self-employed",
+      "target": "Unemployed",
+      "value": 40
+    },
+    {
+      "source": "Self-employed",
+      "target": "Unpaid care (provision of)",
+      "value": 2
+    },
+    {
+      "source": "Self-employed",
+      "target": "Usual Resident",
+      "value": 7
+    },
+    {
+      "source": "Self-employed",
+      "target": "Year of arrival in UK",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Age",
+      "value": 122
+    },
+    {
+      "source": "Sex",
+      "target": "Alternative population",
+      "value": 4
+    },
+    {
+      "source": "Sex",
+      "target": "Cars or Vans",
+      "value": 6
+    },
+    {
+      "source": "Sex",
+      "target": "Civil partnership status",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Communal Establishment",
+      "value": 5
+    },
+    {
+      "source": "Sex",
+      "target": "Communal Establishment resident",
+      "value": 17
+    },
+    {
+      "source": "Sex",
+      "target": "Commuting patterns",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Country of Birth",
+      "value": 9
+    },
+    {
+      "source": "Sex",
+      "target": "Dependent child",
+      "value": 7
+    },
+    {
+      "source": "Sex",
+      "target": "Disability",
+      "value": 21
+    },
+    {
+      "source": "Sex",
+      "target": "Distance travelled to work",
+      "value": 6
+    },
+    {
+      "source": "Sex",
+      "target": "Economic activity",
+      "value": 15
+    },
+    {
+      "source": "Sex",
+      "target": "Economically active",
+      "value": 26
+    },
+    {
+      "source": "Sex",
+      "target": "Economically inactive",
+      "value": 14
+    },
+    {
+      "source": "Sex",
+      "target": "Employed (in employment)",
+      "value": 37
+    },
+    {
+      "source": "Sex",
+      "target": "Employee",
+      "value": 6
+    },
+    {
+      "source": "Sex",
+      "target": "Ethnic Group",
+      "value": 16
+    },
+    {
+      "source": "Sex",
+      "target": "Full-time working",
+      "value": 22
+    },
+    {
+      "source": "Sex",
+      "target": "HRP (Household reference person)",
+      "value": 6
+    },
+    {
+      "source": "Sex",
+      "target": "Health (general)",
+      "value": 21
+    },
+    {
+      "source": "Sex",
+      "target": "Highest level of qualification",
+      "value": 8
+    },
+    {
+      "source": "Sex",
+      "target": "Home-worker",
+      "value": 3
+    },
+    {
+      "source": "Sex",
+      "target": "Hours worked",
+      "value": 9
+    },
+    {
+      "source": "Sex",
+      "target": "Household",
+      "value": 3
+    },
+    {
+      "source": "Sex",
+      "target": "Household composition",
+      "value": 3
+    },
+    {
+      "source": "Sex",
+      "target": "Household resident",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Household type",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Industry",
+      "value": 10
+    },
+    {
+      "source": "Sex",
+      "target": "Language",
+      "value": 1
+    },
+    {
+      "source": "Sex",
+      "target": "Living arrangements",
+      "value": 3
+    },
+    {
+      "source": "Sex",
+      "target": "Living in a couple",
+      "value": 1
+    },
+    {
+      "source": "Sex",
+      "target": "Lone parent",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Long-term health problem or disability",
+      "value": 19
+    },
+    {
+      "source": "Sex",
+      "target": "Long-term unemployed",
+      "value": 7
+    },
+    {
+      "source": "Sex",
+      "target": "Main job",
+      "value": 6
+    },
+    {
+      "source": "Sex",
+      "target": "Main language",
+      "value": 1
+    },
+    {
+      "source": "Sex",
+      "target": "Marital and Civil partnership status",
+      "value": 3
+    },
+    {
+      "source": "Sex",
+      "target": "Marital status",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Method of travel to work",
+      "value": 6
+    },
+    {
+      "source": "Sex",
+      "target": "Migration",
+      "value": 1
+    },
+    {
+      "source": "Sex",
+      "target": "Migration flows",
+      "value": 4
+    },
+    {
+      "source": "Sex",
+      "target": "NS-SeC",
+      "value": 17
+    },
+    {
+      "source": "Sex",
+      "target": "National Identity",
+      "value": 3
+    },
+    {
+      "source": "Sex",
+      "target": "Not in employment",
+      "value": 5
+    },
+    {
+      "source": "Sex",
+      "target": "Occupation",
+      "value": 16
+    },
+    {
+      "source": "Sex",
+      "target": "One family only",
+      "value": 1
+    },
+    {
+      "source": "Sex",
+      "target": "Out of term population",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Part-time working",
+      "value": 22
+    },
+    {
+      "source": "Sex",
+      "target": "Passports Held",
+      "value": 6
+    },
+    {
+      "source": "Sex",
+      "target": "Position in communal establishment",
+      "value": 13
+    },
+    {
+      "source": "Sex",
+      "target": "Proficiency in English",
+      "value": 5
+    },
+    {
+      "source": "Sex",
+      "target": "Religion",
+      "value": 12
+    },
+    {
+      "source": "Sex",
+      "target": "Schoolchildren",
+      "value": 12
+    },
+    {
+      "source": "Sex",
+      "target": "Social grade (approximated)",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Student status",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Students",
+      "value": 16
+    },
+    {
+      "source": "Sex",
+      "target": "Students and schoolchildren",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Tenure",
+      "value": 4
+    },
+    {
+      "source": "Sex",
+      "target": "Unemployed",
+      "value": 17
+    },
+    {
+      "source": "Sex",
+      "target": "Unpaid care (provision of)",
+      "value": 7
+    },
+    {
+      "source": "Sex",
+      "target": "Usual Resident",
+      "value": 12
+    },
+    {
+      "source": "Sex",
+      "target": "Welsh language skills",
+      "value": 5
+    },
+    {
+      "source": "Sex",
+      "target": "Workday population",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Workplace flows",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Workplace population",
+      "value": 1
+    },
+    {
+      "source": "Sex",
+      "target": "Year last worked",
+      "value": 2
+    },
+    {
+      "source": "Sex",
+      "target": "Year of arrival in UK",
+      "value": 1
+    },
+    {
+      "source": "Sleeping rough",
+      "target": "Communal Establishment",
+      "value": 1
+    },
+    {
+      "source": "Sleeping rough",
+      "target": "Household",
+      "value": 1
+    },
+    {
+      "source": "Sleeping rough",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Sleeping rough",
+      "target": "Usual Resident",
+      "value": 1
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Adult lifestage",
+      "value": 3
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Alternative population",
+      "value": 2
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Cars or Vans",
+      "value": 1
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Country of Birth",
+      "value": 1
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Dependent child",
+      "value": 1
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "HRP (Household reference person)",
+      "value": 2
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Household",
+      "value": 2
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Household composition",
+      "value": 2
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Tenure",
+      "value": 1
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Usual Resident",
+      "value": 2
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Welsh language skills",
+      "value": 1
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Workday population",
+      "value": 1
+    },
+    {
+      "source": "Social grade (approximated)",
+      "target": "Workplace population",
+      "value": 1
+    },
+    {
+      "source": "Student accommodation",
+      "target": "Age",
+      "value": 1
+    },
+    {
+      "source": "Student accommodation",
+      "target": "Economic activity",
+      "value": 2
+    },
+    {
+      "source": "Student accommodation",
+      "target": "Economically active",
+      "value": 2
+    },
+    {
+      "source": "Student accommodation",
+      "target": "Economically inactive",
+      "value": 2
+    },
+    {
+      "source": "Student accommodation",
+      "target": "Employed (in employment)",
+      "value": 2
+    },
+    {
+      "source": "Student accommodation",
+      "target": "Students",
+      "value": 2
+    },
+    {
+      "source": "Student accommodation",
+      "target": "Unemployed",
+      "value": 2
+    },
+    {
+      "source": "Student status",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Students",
+      "target": "Age",
+      "value": 11
+    },
+    {
+      "source": "Students",
+      "target": "Area (Hectares)",
+      "value": 2
+    },
+    {
+      "source": "Students",
+      "target": "Cars or Vans",
+      "value": 1
+    },
+    {
+      "source": "Students",
+      "target": "Cohabiting couple",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Communal Establishment",
+      "value": 2
+    },
+    {
+      "source": "Students",
+      "target": "Communal Establishment resident",
+      "value": 1
+    },
+    {
+      "source": "Students",
+      "target": "Country of Birth",
+      "value": 5
+    },
+    {
+      "source": "Students",
+      "target": "Dependent child",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Disability",
+      "value": 1
+    },
+    {
+      "source": "Students",
+      "target": "Economic activity",
+      "value": 42
+    },
+    {
+      "source": "Students",
+      "target": "Economically active",
+      "value": 44
+    },
+    {
+      "source": "Students",
+      "target": "Economically inactive",
+      "value": 41
+    },
+    {
+      "source": "Students",
+      "target": "Employed (in employment)",
+      "value": 44
+    },
+    {
+      "source": "Students",
+      "target": "Employee",
+      "value": 24
+    },
+    {
+      "source": "Students",
+      "target": "Ethnic Group",
+      "value": 1
+    },
+    {
+      "source": "Students",
+      "target": "Full-time working",
+      "value": 37
+    },
+    {
+      "source": "Students",
+      "target": "HRP (Household reference person)",
+      "value": 7
+    },
+    {
+      "source": "Students",
+      "target": "Highest level of qualification",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Home-worker",
+      "value": 1
+    },
+    {
+      "source": "Students",
+      "target": "Hours worked",
+      "value": 1
+    },
+    {
+      "source": "Students",
+      "target": "Household",
+      "value": 15
+    },
+    {
+      "source": "Students",
+      "target": "Household composition",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Household resident",
+      "value": 3
+    },
+    {
+      "source": "Students",
+      "target": "Industry",
+      "value": 2
+    },
+    {
+      "source": "Students",
+      "target": "Living arrangements",
+      "value": 2
+    },
+    {
+      "source": "Students",
+      "target": "Lone parent",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Long-term health problem or disability",
+      "value": 1
+    },
+    {
+      "source": "Students",
+      "target": "Long-term unemployed",
+      "value": 35
+    },
+    {
+      "source": "Students",
+      "target": "Main job",
+      "value": 7
+    },
+    {
+      "source": "Students",
+      "target": "Married couple family",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Married couple household",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Students",
+      "target": "NS-SeC",
+      "value": 15
+    },
+    {
+      "source": "Students",
+      "target": "One family only",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Out of term population",
+      "value": 2
+    },
+    {
+      "source": "Students",
+      "target": "Part-time working",
+      "value": 37
+    },
+    {
+      "source": "Students",
+      "target": "Passports Held",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Population density",
+      "value": 2
+    },
+    {
+      "source": "Students",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Students",
+      "target": "Same-sex civil partnership couple",
+      "value": 6
+    },
+    {
+      "source": "Students",
+      "target": "Schoolchildren",
+      "value": 41
+    },
+    {
+      "source": "Students",
+      "target": "Unemployed",
+      "value": 54
+    },
+    {
+      "source": "Students",
+      "target": "Unpaid care (provision of)",
+      "value": 1
+    },
+    {
+      "source": "Students",
+      "target": "Usual Resident",
+      "value": 27
+    },
+    {
+      "source": "Students",
+      "target": "Year of arrival in UK",
+      "value": 1
+    },
+    {
+      "source": "Students and schoolchildren",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Students and schoolchildren",
+      "target": "HRP (Household reference person)",
+      "value": 1
+    },
+    {
+      "source": "Students and schoolchildren",
+      "target": "NS-SeC",
+      "value": 1
+    },
+    {
+      "source": "Tenure",
+      "target": "Age",
+      "value": 16
+    },
+    {
+      "source": "Tenure",
+      "target": "Alternative population",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Bedrooms",
+      "value": 6
+    },
+    {
+      "source": "Tenure",
+      "target": "Cars or Vans",
+      "value": 10
+    },
+    {
+      "source": "Tenure",
+      "target": "Central Heating",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Cohabiting couple household",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Country of Birth",
+      "value": 1
+    },
+    {
+      "source": "Tenure",
+      "target": "Dependent child",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Disability",
+      "value": 3
+    },
+    {
+      "source": "Tenure",
+      "target": "Economic activity",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Economically active",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Economically inactive",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Employed (in employment)",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Employee",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Ethnic Group",
+      "value": 6
+    },
+    {
+      "source": "Tenure",
+      "target": "Full-time working",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "HRP (Household reference person)",
+      "value": 19
+    },
+    {
+      "source": "Tenure",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Household",
+      "value": 10
+    },
+    {
+      "source": "Tenure",
+      "target": "Household composition",
+      "value": 4
+    },
+    {
+      "source": "Tenure",
+      "target": "Household size",
+      "value": 4
+    },
+    {
+      "source": "Tenure",
+      "target": "Household type",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Industry",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Lone parent household",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Long-term unemployed",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Main job",
+      "value": 1
+    },
+    {
+      "source": "Tenure",
+      "target": "Married couple household",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Migration",
+      "value": 1
+    },
+    {
+      "source": "Tenure",
+      "target": "NS-SeC",
+      "value": 3
+    },
+    {
+      "source": "Tenure",
+      "target": "Occupancy rating",
+      "value": 4
+    },
+    {
+      "source": "Tenure",
+      "target": "Occupation",
+      "value": 4
+    },
+    {
+      "source": "Tenure",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Tenure",
+      "target": "Persons per bedroom",
+      "value": 4
+    },
+    {
+      "source": "Tenure",
+      "target": "Persons per room",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Religion",
+      "value": 3
+    },
+    {
+      "source": "Tenure",
+      "target": "Rooms",
+      "value": 4
+    },
+    {
+      "source": "Tenure",
+      "target": "Same-sex civil partnership couple family",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Unemployed",
+      "value": 2
+    },
+    {
+      "source": "Tenure",
+      "target": "Usual Resident",
+      "value": 4
+    },
+    {
+      "source": "Tenure",
+      "target": "Welsh language skills",
+      "value": 4
+    },
+    {
+      "source": "Tenure",
+      "target": "Workday population",
+      "value": 1
+    },
+    {
+      "source": "Tenure",
+      "target": "Workplace population",
+      "value": 1
+    },
+    {
+      "source": "Tenure",
+      "target": "Year of arrival in UK",
+      "value": 2
+    },
+    {
+      "source": "Term-time Resident",
+      "target": "Area (Hectares)",
+      "value": 1
+    },
+    {
+      "source": "Term-time Resident",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Term-time Resident",
+      "target": "Population density",
+      "value": 1
+    },
+    {
+      "source": "Unemployed",
+      "target": "Age",
+      "value": 18
+    },
+    {
+      "source": "Unemployed",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Unemployed",
+      "target": "Cars or Vans",
+      "value": 1
+    },
+    {
+      "source": "Unemployed",
+      "target": "Communal Establishment resident",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "Country of Birth",
+      "value": 7
+    },
+    {
+      "source": "Unemployed",
+      "target": "Dependent child",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "Disability",
+      "value": 3
+    },
+    {
+      "source": "Unemployed",
+      "target": "Economic activity",
+      "value": 55
+    },
+    {
+      "source": "Unemployed",
+      "target": "Economically active",
+      "value": 57
+    },
+    {
+      "source": "Unemployed",
+      "target": "Economically inactive",
+      "value": 57
+    },
+    {
+      "source": "Unemployed",
+      "target": "Employed (in employment)",
+      "value": 62
+    },
+    {
+      "source": "Unemployed",
+      "target": "Employee",
+      "value": 35
+    },
+    {
+      "source": "Unemployed",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "Family",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "Full-time working",
+      "value": 49
+    },
+    {
+      "source": "Unemployed",
+      "target": "HRP (Household reference person)",
+      "value": 9
+    },
+    {
+      "source": "Unemployed",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "Highest level of qualification",
+      "value": 7
+    },
+    {
+      "source": "Unemployed",
+      "target": "Hours worked",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "Household",
+      "value": 7
+    },
+    {
+      "source": "Unemployed",
+      "target": "Household resident",
+      "value": 1
+    },
+    {
+      "source": "Unemployed",
+      "target": "Living arrangements",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "Long-term unemployed",
+      "value": 47
+    },
+    {
+      "source": "Unemployed",
+      "target": "Main job",
+      "value": 11
+    },
+    {
+      "source": "Unemployed",
+      "target": "Migration",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "NS-SeC",
+      "value": 15
+    },
+    {
+      "source": "Unemployed",
+      "target": "Out of term population",
+      "value": 3
+    },
+    {
+      "source": "Unemployed",
+      "target": "Part-time working",
+      "value": 48
+    },
+    {
+      "source": "Unemployed",
+      "target": "Passports Held",
+      "value": 7
+    },
+    {
+      "source": "Unemployed",
+      "target": "Position in communal establishment",
+      "value": 1
+    },
+    {
+      "source": "Unemployed",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Unemployed",
+      "target": "Schoolchildren",
+      "value": 31
+    },
+    {
+      "source": "Unemployed",
+      "target": "Unpaid care (provision of)",
+      "value": 3
+    },
+    {
+      "source": "Unemployed",
+      "target": "Usual Resident",
+      "value": 26
+    },
+    {
+      "source": "Unemployed",
+      "target": "Year last worked",
+      "value": 5
+    },
+    {
+      "source": "Unemployed",
+      "target": "Year of arrival in UK",
+      "value": 2
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Age",
+      "value": 4
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Disability",
+      "value": 6
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Economic activity",
+      "value": 3
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Economically active",
+      "value": 3
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Economically inactive",
+      "value": 3
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Employed (in employment)",
+      "value": 3
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Employee",
+      "value": 1
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Ethnic Group",
+      "value": 2
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Full-time working",
+      "value": 3
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Health (general)",
+      "value": 10
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Long-term health problem or disability",
+      "value": 5
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Out of term population",
+      "value": 1
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Part-time working",
+      "value": 3
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Schoolchildren",
+      "value": 1
+    },
+    {
+      "source": "Unpaid care (provision of)",
+      "target": "Usual Resident",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Adult",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Adult lifestage",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Age",
+      "value": 9
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Age of arrival in UK",
+      "value": 1
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Area (Hectares)",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Armed Forces",
+      "value": 1
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Cars or Vans",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Civil partnership status",
+      "value": 6
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Cohabiting couple",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Communal Establishment",
+      "value": 11
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Country of Birth",
+      "value": 3
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Dependent child",
+      "value": 8
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Disability",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Dwelling",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Economic activity",
+      "value": 7
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Economically active",
+      "value": 9
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Economically inactive",
+      "value": 9
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Employed (in employment)",
+      "value": 30
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Employee",
+      "value": 7
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Ethnic Group",
+      "value": 3
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Full-time working",
+      "value": 11
+    },
+    {
+      "source": "Usual Resident",
+      "target": "HRP (Household reference person)",
+      "value": 7
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Health (general)",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Highest level of qualification",
+      "value": 5
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Hours worked",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Household",
+      "value": 34
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Household composition",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Household resident",
+      "value": 8
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Household space",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Industry",
+      "value": 6
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Language",
+      "value": 1
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Length of residence in UK",
+      "value": 1
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Living arrangements",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Living in a couple",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Lone parent",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Long-term health problem or disability",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Long-term unemployed",
+      "value": 19
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Main job",
+      "value": 19
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Marital status",
+      "value": 6
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Married couple family",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Married couple household",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Mean age",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Median age",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Method of travel to work",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "NS-SeC",
+      "value": 12
+    },
+    {
+      "source": "Usual Resident",
+      "target": "National Identity",
+      "value": 1
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Not living in a couple",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Occupation",
+      "value": 6
+    },
+    {
+      "source": "Usual Resident",
+      "target": "One family only",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Part-time working",
+      "value": 11
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Persons per bedroom",
+      "value": 1
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Persons per room",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Population density",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Position in communal establishment",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Proficiency in English",
+      "value": 1
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Religion",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Rooms",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Same-sex civil partnership couple",
+      "value": 2
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Schoolchildren",
+      "value": 27
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Welsh language skills",
+      "value": 4
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Year last worked",
+      "value": 5
+    },
+    {
+      "source": "Usual Resident",
+      "target": "Year of arrival in UK",
+      "value": 1
+    },
+    {
+      "source": "Usual residence",
+      "target": "Alternative population",
+      "value": 1
+    },
+    {
+      "source": "Usual residence",
+      "target": "Method of travel to work",
+      "value": 1
+    },
+    {
+      "source": "Usual residence",
+      "target": "Workplace population",
+      "value": 1
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Age",
+      "value": 17
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Alternative population",
+      "value": 4
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Cohabiting couple family",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Communal Establishment",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Communal Establishment resident",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Country of Birth",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Dependent child",
+      "value": 4
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Disability",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Family",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "HRP (Household reference person)",
+      "value": 4
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Highest level of qualification",
+      "value": 1
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Household composition",
+      "value": 4
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Household size",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Industry",
+      "value": 3
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Lone parent family",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Long-term health problem or disability",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Married couple family",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "NS-SeC",
+      "value": 4
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "National Identity",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Occupation",
+      "value": 3
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Out of term population",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Position in communal establishment",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Same-sex civil partnership couple family",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Workday population",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Workplace population",
+      "value": 2
+    },
+    {
+      "source": "Welsh language skills",
+      "target": "Year last worked",
+      "value": 3
+    },
+    {
+      "source": "Workday population",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Workday population",
+      "target": "Alternative population",
+      "value": 22
+    },
+    {
+      "source": "Workday population",
+      "target": "Area (Hectares)",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Country of Birth",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Distance travelled to work",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Economic activity",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Ethnic Group",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Health (general)",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Highest level of qualification",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Hours worked",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Industry",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Length of residence in UK",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Main language",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Method of travel to work",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "NS-SeC",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Occupation",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Population density",
+      "value": 1
+    },
+    {
+      "source": "Workday population",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Workplace flows",
+      "target": "Age",
+      "value": 2
+    },
+    {
+      "source": "Workplace flows",
+      "target": "Commuting patterns",
+      "value": 8
+    },
+    {
+      "source": "Workplace flows",
+      "target": "Method of travel to work",
+      "value": 2
+    },
+    {
+      "source": "Workplace population",
+      "target": "Age",
+      "value": 5
+    },
+    {
+      "source": "Workplace population",
+      "target": "Alternative population",
+      "value": 33
+    },
+    {
+      "source": "Workplace population",
+      "target": "Area (Hectares)",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Country of Birth",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Distance travelled to work",
+      "value": 5
+    },
+    {
+      "source": "Workplace population",
+      "target": "Employment",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Ethnic Group",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Health (general)",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Highest level of qualification",
+      "value": 3
+    },
+    {
+      "source": "Workplace population",
+      "target": "Hours worked",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Industry",
+      "value": 5
+    },
+    {
+      "source": "Workplace population",
+      "target": "Length of residence in UK",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Main language",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Method of travel to work",
+      "value": 4
+    },
+    {
+      "source": "Workplace population",
+      "target": "NS-SeC",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Occupation",
+      "value": 5
+    },
+    {
+      "source": "Workplace population",
+      "target": "Passports Held",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Population",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Population density",
+      "value": 1
+    },
+    {
+      "source": "Workplace population",
+      "target": "Religion",
+      "value": 1
+    },
+    {
+      "source": "Year last worked",
+      "target": "Age",
+      "value": 3
+    },
+    {
+      "source": "Year last worked",
+      "target": "Employed (in employment)",
+      "value": 5
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Age",
+      "value": 5
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Country of Birth",
+      "value": 9
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Economic activity",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Economically active",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Economically inactive",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Employed (in employment)",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Employee",
+      "value": 1
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Full-time working",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Health (general)",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Highest level of qualification",
+      "value": 4
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Industry",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Long-term unemployed",
+      "value": 1
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Main job",
+      "value": 1
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Occupation",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Part-time working",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Passports Held",
+      "value": 9
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Proficiency in English",
+      "value": 2
+    },
+    {
+      "source": "Year of arrival in UK",
+      "target": "Schoolchildren",
+      "value": 1
+    }
+  ]
+}
